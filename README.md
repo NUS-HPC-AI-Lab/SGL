@@ -1,7 +1,6 @@
 # SGL
 
 The official implementation of "2024 A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs".
-![image](https://github.com/user-attachments/assets/94e62804-8ea6-4f58-93ec-5f31f7160c40)
 
 > Wangbo Zhao<sup>1</sup>, Yizeng Han<sup>2</sup>,  Jiasheng Tang<sup>2,3</sup>, Zhikai Li<sup>1</sup>, Yibing Song<<sup>2,3</sup>, Kai Wang<sup>1</sup>, Zhangyang Wang<sup>4</sup>, Yang You<sup>1</sup>
 >
@@ -9,6 +8,7 @@ The official implementation of "2024 A Stitch in Time Saves Nine: Small VLM is a
 >
 >  [Paper](https://arxiv.org/abs/2412.03324)
 
+![image](https://github.com/user-attachments/assets/94e62804-8ea6-4f58-93ec-5f31f7160c40)
 The code is coming soon.
 
 
