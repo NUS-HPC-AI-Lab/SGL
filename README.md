@@ -9,13 +9,17 @@
 
 
 
-The official implementation of "2024 A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs".
+The official implementation of "2025 CVPR A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs".
 
 > Wangbo Zhao<sup>1</sup>, Yizeng Han<sup>2</sup>,  Jiasheng Tang<sup>2,3</sup>, Zhikai Li<sup>1</sup>, Yibing Song<sup>2,3</sup>, Kai Wang<sup>1</sup>, Zhangyang Wang<sup>4</sup>, Yang You<sup>1</sup>
 >
 > <sup>1</sup>[National University of Singapore](https://www.nus.edu.sg/), <sup>2</sup>[DAMO Academy, Alibaba Group](https://damo.alibaba.com/?language=zh), <sup>3</sup>Hupan Lab, <sup>4</sup>[The University of Texas at Austin](https://www.tsinghua.edu.cn/)
 >
 >  [Paper](https://arxiv.org/abs/2412.03324)
+
+
+## Update
+2025.02.27 SGL has been accepted to CVPR 2025.
 
 ## 💥 Overview
 ![20241230195723](https://github.com/user-attachments/assets/e244efd4-4136-4402-856f-95e87e33d408)
